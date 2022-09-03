@@ -1,4 +1,4 @@
-<h2 align="center">⭐️Pancakeswap Web3 Bot GUI (WINDOWS LINUX MAC)⭐️</h2>
+<h2 align="center">⭐️BSC-ETH-Web3-Sniper-GUI-2022 (WINDOWS LINUX MAC)⭐️</h2>
 <h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
  
 ![alt text](https://github.com/JDCORPCOMPANY/BSC-ETH-Web3-Sniper-GUI-2022/blob/main/bsc-gui.gif?raw=true "GIF application")
