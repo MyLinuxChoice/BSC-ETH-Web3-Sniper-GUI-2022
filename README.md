@@ -13,7 +13,7 @@
  
 <h3 align="center">⭐️ First GUI SNIPER BOT for WINDOWS & LINUX ⭐️</h3>
 
-#### Web3 Pancakeswap Sniper GUI Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
+#### Web3 Sniper GUI Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 #### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
 
  
