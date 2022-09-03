@@ -1,7 +1,7 @@
 <h2 align="center">⭐️Pancakeswap Web3 Bot GUI (WINDOWS LINUX MAC)⭐️</h2>
 <h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
  
-![alt text](https://github.com/GUUIBOT/BSC-ETH-Web3-Sniper-GUI-2022/blob/main/pancakeswap-gui.gif?raw=true "GIF application")
+![alt text](https://github.com/JDCORPCOMPANY/BSC-ETH-Web3-Sniper-GUI-2022/blob/main/bsc-gui.gif?raw=true "GIF application")
  
 [![Version](https://img.shields.io/badge/Codename-BlackHat-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
@@ -31,7 +31,7 @@ python -m pip install -r requirements.txt
 
 1. An ethereum/bsc address.
 2. Open "configfile.py" (with notepad) on line 3 and 4 add wallet address and phrase or private key.
-3. Run python3 panUNIswap_bot.py
+3. Run python3 bsc-GUI.py
 
 (Also you can use phrase key just use space between words)
 
