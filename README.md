@@ -12,7 +12,7 @@
 [![Available](https://img.shields.io/badge/Available-MAC-yellow.svg?maxAge=259200)]()
 [![Documentation](https://img.shields.io/badge/TORNADO-CASH-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
- 
+
  
 <h3 align="center">⭐️ First GUI SNIPER BOT for WINDOWS & LINUX ⭐️</h3>
 
