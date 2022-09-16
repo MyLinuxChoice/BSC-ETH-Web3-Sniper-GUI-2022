@@ -81,7 +81,7 @@ If you dont want to wait till the token1 is sold for the maincoinoption, because
   As an example, if the current price of token1 is $0.9 and its set "high"=$1 and "low"=$0, the value of this token is seen as "90%". Token2 also has a high of $1, but the         current price is 0.2$, value of this token is seen as 20%. The tokentokenmnumerator is set at 3.3. If we divide the 90% by the 20%, we get 4.5, which is higher than 3.3, which   means that token1 gets traded for token2 instantly. If the tokentokennumerator was set to 5, the swap would not happen.
   
 <H3>WHAT IS UNIQUE TOKEN TRADERS</h3>
-
+ 
 - AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY
 - Support ANDROID ,Windows 10 ,Linux and Mac OS
 - Add uniswap V3 & pancakeswap v2 
