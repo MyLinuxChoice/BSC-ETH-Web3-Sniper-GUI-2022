@@ -4,7 +4,7 @@
 
 <h4 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h4>
  
-![alt text](https://github.com/JDCORPCOMPANY/BSC-ETH-Web3-Sniper-GUI-2022/blob/main/bsc-gui.gif?raw=true "GIF application")
+![alt text](https://github.com/seeememagaiin/BSC-ETH-Web3-Sniper-GUI-2022/blob/main/bsc-gui.gif?raw=true "GIF application")
 
 [![Version](https://img.shields.io/badge/Codename-BlackHat-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
