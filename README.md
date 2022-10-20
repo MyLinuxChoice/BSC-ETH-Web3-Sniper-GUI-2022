@@ -8,7 +8,7 @@
 
 [![Version](https://img.shields.io/badge/Codename-BlackHat-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-MAC-red.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-MAC-red.svg)]() 
 [![Available](https://img.shields.io/badge/Available-MAC-yellow.svg?maxAge=259200)]()
 [![Documentation](https://img.shields.io/badge/TORNADO-CASH-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
