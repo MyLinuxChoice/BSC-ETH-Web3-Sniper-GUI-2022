@@ -8,7 +8,7 @@ max_slippage ='0.03'
 incaseofbuyinghowmuch='1'
 
 ethtokeep='5'
-
+ 
 speed='schnell'
 maincoinoption='BNB'
 mcotoseeassell='10'
